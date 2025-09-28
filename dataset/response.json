@@ -1,0 +1,493 @@
+
+[
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "This app keeps crashing every time I open it. Seriously, how is this still broken?",
+    "output": "I am consistently experiencing application crashes upon opening. Could you kindly provide an update regarding the resolution of this recurring issue?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Payment didn't go through AGAIN. Fix this already, it's beyond annoying.",
+    "output": "My payment attempt has failed repeatedly, and this issue has persisted. I would appreciate your assistance in resolving this matter promptly."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The guy on support just hung up on me. Not okay.",
+    "output": "I encountered an unfortunate situation where my call with a support representative was unexpectedly disconnected. Could you kindly investigate this matter and ensure proper assistance is provided?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "My order still hasn't shipped. It's been a week. What gives?",
+    "output": "My order has not yet been shipped and it has been a full week since purchase. Could you please provide an update on the status of the shipment?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your website is so confusing, I can't even find the login page.",
+    "output": "I am having difficulty navigating the website and locating the login page. Guidance on this matter would be greatly appreciated."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Whoever designed this UI clearly never used it. It's such a pain.",
+    "output": "The current user interface design seems challenging to navigate effectively. Could you please consider reviewing its usability for potential improvements?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "I'm so done with having to reset my password every other day.",
+    "output": "Frequent password reset requirements have become inconvenient. May I request assistance in resolving the recurring issue causing repeated reset prompts?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Got charged twice for the same thing. Not cool at all.",
+    "output": "I appear to have been billed twice for a single transaction. I kindly request assistance in rectifying this billing error."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your email responses take forever. Do you even read them?",
+    "output": "There appears to be a significant delay in receiving responses to my emails. Could you please confirm if my messages are being reviewed and provide an estimated response time?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "I typed my info in twice and your site still lost it. Ugh.",
+    "output": "I entered my information twice, but it was not successfully processed or saved by the site. Assistance in resolving this technical issue would be appreciated."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The update yesterday broke my notifications. Now I miss everything.",
+    "output": "Following the recent update, I am no longer receiving notifications, which causes me to miss important alerts. Could you kindly provide a solution for this issue?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Seriously, why does logging in feel like solving a puzzle every time?",
+    "output": "Accessing my account has become unnecessarily complicated during the login process. I would appreciate improvements or guidance to simplify this experience."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "My balance is showing the wrong amount. Fix your system.",
+    "output": "My account balance appears to be incorrect. I kindly request clarification and correction of this discrepancy."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Does anyone actually answer your phone line? I've been on hold forever.",
+    "output": "I have waited on hold for an extended period without receiving assistance. Could you please advise on expected response times or alternative methods of support?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Pretty disappointed my subscription renewed without warning. Sneaky.",
+    "output": "I was surprised to find that my subscription renewed automatically without prior notice. Could you please clarify your renewal policy?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Why is your app eating up all my data usage?",
+    "output": "I have observed that the application consumes an unusually high amount of mobile data. Could you kindly review this matter and provide recommendations on reducing data usage?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "It keeps logging me out for no reason. This is getting frustrating.",
+    "output": "I am frequently logged out of the application unexpectedly, which has become inconvenient. Assistance in preventing these disconnections would be greatly appreciated."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Half the links on your site are broken. What's the deal?",
+    "output": "Many of the links on your website appear to be nonfunctional. Could you kindly investigate this issue and provide corrected navigation options?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "My order says delivered but nothing showed up. Someone messed up.",
+    "output": "According to the tracking system, my order is marked as delivered, but I have not received the package. Could you please investigate this discrepancy?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your instructions make zero sense. How is anyone supposed to follow them?",
+    "output": "I found the provided instructions unclear and difficult to follow. Would it be possible to provide revised or more detailed guidance?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Been trying to cancel for weeks now. This is ridiculous.",
+    "output": "I have been attempting to cancel my subscription for several weeks without success. Could you please assist me in completing this cancellation request?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The search function is completely useless. Can't find anything.",
+    "output": "I am experiencing difficulties with the search functionality, which is not producing relevant results. Could you please address this issue?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Stop sending me spam emails. I unsubscribed like 10 times already.",
+    "output": "Despite multiple unsubscribe requests, I continue to receive promotional emails. I kindly request immediate removal from all mailing lists."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your return process is a nightmare. Just want my money back.",
+    "output": "I am finding the return process overly complex. Could you please expedite my refund request?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The quality is way worse than advertised. Total waste of money.",
+    "output": "The product quality does not meet the standards described in the advertisement. I would like to discuss options for resolution."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Been waiting 3 hours for a callback. Are you guys even working?",
+    "output": "I have been awaiting a callback for three hours. Could you please provide an update on when I can expect to receive assistance?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your prices went up again? Getting greedy much?",
+    "output": "I noticed another price increase has been implemented. Could you please provide justification for these pricing adjustments?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The file download keeps failing. Your servers are trash.",
+    "output": "I am experiencing repeated download failures. Could you please investigate potential server issues affecting file transfers?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Why can't I use my credit card? It works everywhere else.",
+    "output": "My credit card is being declined despite functioning properly with other merchants. Could you please assist in resolving this payment issue?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "This feature used to work fine. Now it's completely broken.",
+    "output": "A previously functional feature is no longer operating correctly. I would appreciate assistance in restoring its functionality."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your chat bot is useless. Need a real person ASAP.",
+    "output": "The automated chat system has been unable to resolve my issue. I kindly request to be connected with a human representative."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The app freezes every time I try to upload something.",
+    "output": "I consistently encounter application freezes when attempting to upload content. Technical assistance would be appreciated."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Wrong item shipped. How do you mess this up?",
+    "output": "I received an incorrect item in my shipment. Could you please arrange for an exchange to the correct product?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your security questions are impossible to remember. Locked out again.",
+    "output": "The security questions have proven difficult to recall, resulting in account lockout. Could you please assist with account recovery?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The loading times are insane. Takes forever to do anything.",
+    "output": "I am experiencing excessive loading times that significantly impact productivity. Could you please investigate performance optimization?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Stop changing the layout every week. It's confusing as hell.",
+    "output": "The frequent interface changes have become disorienting. Could you please consider maintaining consistency in the user interface?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "My discount code doesn't work. False advertising much?",
+    "output": "The provided discount code is not being accepted at checkout. Could you please verify its validity and assist with application?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The mobile version is basically unusable. Fix it already.",
+    "output": "The mobile interface presents significant usability challenges. I would appreciate improvements to enhance mobile functionality."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your customer service hours are a joke. Nobody works normal hours?",
+    "output": "The current customer service hours do not align with typical business needs. Could you please consider extending support availability?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Package came damaged. Bubble wrap doesn't seem to be in your vocabulary.",
+    "output": "My package arrived with damage to the contents. I would recommend reviewing packaging procedures to prevent future incidents."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The sync feature never works right. Always losing my data.",
+    "output": "I am experiencing persistent synchronization issues resulting in data loss. Could you please provide a solution to ensure reliable data synchronization?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your filters don't filter anything useful. Waste of time.",
+    "output": "The current filtering options do not provide adequate functionality for my needs. Could you please consider enhancing the filter capabilities?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Been getting error messages all day. Your system is a mess.",
+    "output": "I have encountered numerous error messages throughout the day. Could you please investigate these system issues?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The font is so tiny I need a magnifying glass. Think about accessibility maybe?",
+    "output": "The current font size presents readability challenges. I would appreciate accessibility improvements including larger text options."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "My account got suspended for no reason. What's your problem?",
+    "output": "My account has been suspended without clear explanation. Could you please review this decision and provide clarification?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The confirmation email never came. Now I'm stuck in limbo.",
+    "output": "I have not received the expected confirmation email, which has prevented me from proceeding. Could you please resend the confirmation?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your app permissions are way too invasive. Why do you need access to everything?",
+    "output": "The application requests extensive permissions that seem unnecessary. Could you please clarify the necessity of each permission requirement?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The export feature is broken. Can't get my own data out.",
+    "output": "I am unable to successfully export my data using the current export functionality. Assistance in retrieving my data would be appreciated."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your two-factor authentication is overkill. Takes 10 minutes just to log in.",
+    "output": "The current two-factor authentication process is excessively time-consuming. Could you please consider streamlining the security procedure?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Missing half my order. Do you guys even check before shipping?",
+    "output": "My order arrived incomplete with several items missing. Could you please investigate and arrange shipment of the missing items?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The color looks nothing like the picture. Deceptive much?",
+    "output": "The product color differs significantly from the online representation. I would like to discuss options for resolution of this discrepancy."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your FAQ is useless. Doesn't answer any real questions.",
+    "output": "The FAQ section does not address my specific concerns. Could you please provide more comprehensive support documentation?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The autocorrect in your app is driving me insane. Let me type what I want.",
+    "output": "The autocorrect feature is overly aggressive and interferes with intended input. Could you please provide an option to disable this feature?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Tried to update my address 5 times. Still shows the old one.",
+    "output": "Despite multiple attempts to update my address, the system continues to display outdated information. Could you please assist with this update?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your live chat is never actually live. False advertising.",
+    "output": "The advertised live chat feature does not appear to provide real-time support. Could you please clarify the actual support hours?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The video quality is garbage even on high settings.",
+    "output": "The video quality remains poor despite selecting the highest quality settings. Could you please investigate this technical issue?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your uninstall process is intentionally complicated. Shady practice.",
+    "output": "The uninstallation procedure appears unnecessarily complex. Could you please provide clear instructions for complete removal?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Keep getting logged out mid-transaction. Lost my progress twice.",
+    "output": "I am experiencing session timeouts during transactions, resulting in lost progress. Could you please extend session duration or implement progress saving?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The print function never works properly. Always cuts off half the page.",
+    "output": "The print functionality consistently produces incomplete outputs with truncated content. Technical assistance would be appreciated."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your competitor's app works way better. Just saying.",
+    "output": "I have noticed that similar applications offer superior functionality. Perhaps reviewing competitive features could guide improvements."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The tutorial skips important steps. Totally unhelpful.",
+    "output": "The tutorial appears to omit crucial information necessary for proper understanding. Could you please provide more comprehensive guidance?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Can't delete my account. Privacy nightmare.",
+    "output": "I am unable to locate the option to delete my account, which raises privacy concerns. Could you please assist with account deletion?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your captcha is impossible. I'm not a robot but can't prove it.",
+    "output": "The CAPTCHA verification is excessively difficult to complete. Could you please implement a more user-friendly verification method?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The back button doesn't work half the time. Basic functionality fail.",
+    "output": "The back navigation function operates inconsistently. Could you please address this fundamental usability issue?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your size chart is completely wrong. Nothing fits right.",
+    "output": "The provided size chart does not accurately reflect actual product dimensions. Could you please review and update the sizing information?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The subscription page is buried so deep I can't manage anything.",
+    "output": "The subscription management interface is difficult to locate within the current navigation structure. Could you please improve accessibility to account settings?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your refund policy is a scam. 5 business days my foot.",
+    "output": "The refund processing time has exceeded the stated 5 business day policy. Could you please expedite my refund request?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Every update makes things worse. Do you test anything?",
+    "output": "Recent updates appear to have introduced new issues rather than improvements. Could you please review your quality assurance procedures?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The attachment limit is ridiculously small. Can't send anything useful.",
+    "output": "The current file size limitation for attachments is insufficient for practical use. Could you please consider increasing this limit?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your dark mode is broken. Burns my eyes at night.",
+    "output": "The dark mode implementation does not function correctly, causing eye strain. Could you please address this accessibility feature?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The calendar integration never syncs right. Always double booking myself.",
+    "output": "The calendar synchronization feature operates unreliably, resulting in scheduling conflicts. Could you please improve the integration functionality?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Promotional price disappeared at checkout. Bait and switch much?",
+    "output": "The advertised promotional pricing was not applied during checkout. Could you please honor the displayed promotional rate?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your spell check flags everything as wrong. Even correct words.",
+    "output": "The spell check feature appears to be incorrectly identifying properly spelled words as errors. Could you please review its functionality?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The zoom feature is pathetic. Can barely see anything when zoomed.",
+    "output": "The zoom functionality provides insufficient magnification for detailed viewing. Could you please enhance this feature?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Why is there no save draft option? Lost everything I wrote.",
+    "output": "The absence of an auto-save or draft feature resulted in loss of my work. Could you please implement content preservation functionality?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your session timeout is way too short. Constantly have to re-login.",
+    "output": "The current session timeout duration is impractically brief, requiring frequent re-authentication. Could you please extend the session length?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The undo button doesn't undo half the things. What's the point?",
+    "output": "The undo function does not consistently reverse actions as expected. Could you please improve its reliability and scope?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your email templates are stuck in the 90s. Ugly and hard to read.",
+    "output": "The current email template design appears outdated and impacts readability. Could you please consider modernizing the email format?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The copy paste function is glitchy. Adds random characters.",
+    "output": "The copy and paste functionality introduces formatting errors and extraneous characters. Could you please address this technical issue?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "No way to contact anyone on weekends. Emergency? Too bad.",
+    "output": "The lack of weekend support availability is concerning for urgent matters. Could you please consider implementing emergency support coverage?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your points system makes no sense. How does anyone earn anything?",
+    "output": "The rewards point calculation system lacks transparency. Could you please provide clearer documentation on earning and redemption?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The backup feature failed and I lost months of work. Thanks for nothing.",
+    "output": "The backup functionality failed to preserve my data, resulting in significant loss. I urgently request assistance in data recovery."
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your ads cover half the screen. Can't even see the content.",
+    "output": "The advertisement placement significantly obstructs content visibility. Could you please reconsider the ad layout for better user experience?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The language settings keep reverting to default. So annoying.",
+    "output": "The language preferences do not persist and repeatedly reset to default settings. Could you please ensure settings are properly saved?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your 'premium' features are basic features everywhere else. Ripoff.",
+    "output": "The features designated as premium appear to be standard offerings in comparable services. Could you please justify the premium pricing structure?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Can't believe you removed the best feature. What were you thinking?",
+    "output": "I noticed a previously valuable feature has been removed in the latest update. Could you please explain this decision or provide an alternative?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The history feature only goes back a week. Totally useless for tracking.",
+    "output": "The limited one-week history retention is insufficient for proper record keeping. Could you please extend the historical data availability?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your file naming system is chaos. Can't find anything I saved.",
+    "output": "The current file naming convention makes locating saved items difficult. Could you please implement a more intuitive organizational system?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The share button shares to everything except what I actually use.",
+    "output": "The sharing options do not include the platforms I regularly utilize. Could you please expand the available sharing integrations?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your bulk actions don't work. Have to do everything one by one.",
+    "output": "The bulk action features appear to be non-functional, requiring individual processing. Could you please restore bulk operation capabilities?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The preview shows one thing but the final result is completely different.",
+    "output": "There is a significant discrepancy between the preview display and the final output. Could you please ensure preview accuracy?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "No option to turn off auto-play. It's driving me crazy.",
+    "output": "The absence of controls to disable auto-play functionality is problematic. Could you please implement user preference settings for this feature?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your sort options are backwards. Newest should be first, not last.",
+    "output": "The default sorting order appears counterintuitive with newest items appearing last. Could you please reconsider the sorting logic?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The keyboard shortcuts conflict with browser shortcuts. Amateur hour.",
+    "output": "The application keyboard shortcuts interfere with standard browser commands. Could you please review and adjust the shortcut assignments?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Why does every single action require a confirmation? Trust me to know what I want.",
+    "output": "The excessive confirmation prompts for routine actions impede workflow efficiency. Could you please reduce unnecessary confirmation requirements?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Your cache clearing never actually clears anything. Storage still full.",
+    "output": "The cache clearing function does not appear to free up storage space as expected. Could you please investigate this functionality?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "The remember me checkbox is pointless. Never remembers anything.",
+    "output": "The 'remember me' feature does not maintain login credentials as intended. Could you please ensure this function operates correctly?"
+  },
+  {
+    "instruction": "Rewrite the following input text to be professional, polite, and formal, while keeping the original meaning intact.",
+    "input": "Stop forcing updates in the middle of work. Have some respect for timing.",
+    "output": "Mandatory updates during active work sessions are disruptive. Could you please implement optional update scheduling?"
+  }
+]

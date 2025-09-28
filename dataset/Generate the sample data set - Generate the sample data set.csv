@@ -1,0 +1,127 @@
+Text Message,Tone Class,Label ID
+Why is this ticket still open? You need to fix this NOW.,Aggressive/Frustrated,0
+"Seriously, the deployment is always breaking. It's unacceptable!",Aggressive/Frustrated,0
+I spent three hours fixing this stupid bug again. This is a mess.,Aggressive/Frustrated,0
+This deadline is impossible. Just push it back already.,Aggressive/Frustrated,0
+I'm not doing this task unless the requirements are clearer. Find someone else.,Aggressive/Frustrated,0
+Who broke the build this time? This needs to stop.,Aggressive/Frustrated,0
+"Everything is a priority, which means nothing is. Get your priorities straight.",Aggressive/Frustrated,0
+This issue should have been resolved days ago. What is the hold-up?,Aggressive/Frustrated,0
+I can't believe we missed that crucial detail. It's a failure.,Aggressive/Frustrated,0
+Don't ever change the documentation without telling me first. It's a disaster.,Aggressive/Frustrated,0
+"This is totally messed up, I can't even run the local environment.",Aggressive/Frustrated,0
+We are completely wasting time on this meeting. Just send an email.,Aggressive/Frustrated,0
+"That's a ridiculous suggestion, we are not moving in that direction.",Aggressive/Frustrated,0
+I'm fed up with the constant last-minute changes on this project.,Aggressive/Frustrated,0
+Why is this report delayed again? You must deliver it today.,Aggressive/Frustrated,0
+This bug should have been fixed last week. It's totally unacceptable.,Aggressive/Frustrated,0
+I can't believe the server crashed again. This platform is a joke.,Aggressive/Frustrated,0
+We are wasting so much time on petty details. Speed up!,Aggressive/Frustrated,0
+Don't bother me with minor details; just get the core problem solved.,Aggressive/Frustrated,0
+"Seriously, the performance is terrible. It needs major overhaul.",Aggressive/Frustrated,0
+You are making this far too complicated. Keep it simple!,Aggressive/Frustrated,0
+Stop using that outdated library immediately. It's a security risk.,Aggressive/Frustrated,0
+We are way behind schedule. I need full commitment from everyone.,Aggressive/Frustrated,0
+"I told you explicitly to use the new framework, not the old one.",Aggressive/Frustrated,0
+The latest deployment is fundamentally broken. This is a mess.,Aggressive/Frustrated,0
+I spent three hours just fixing this stupid environment variable.,Aggressive/Frustrated,0
+Your response time on this issue is completely inadequate.,Aggressive/Frustrated,0
+This is the worst code I've seen all month. Refactor immediately.,Aggressive/Frustrated,0
+"The client is furious, and this is entirely your fault.",Aggressive/Frustrated,0
+I'm done dealing with these excuses. Give me results.,Aggressive/Frustrated,0
+"I need the data dump NOW, not in an hour. Hurry up.",Aggressive/Frustrated,0
+This is not what I asked for at all. Reread the ticket.,Aggressive/Frustrated,0
+That deadline is not moving. Find a way to make it work.,Aggressive/Frustrated,0
+My patience is running thin with these constant interruptions.,Aggressive/Frustrated,0
+I'm sick of having to constantly chase people for simple updates.,Aggressive/Frustrated,0
+Do not ever send me unfinished work like this again.,Aggressive/Frustrated,0
+Who authorized this ridiculous change without my approval?,Aggressive/Frustrated,0
+I am extremely disappointed by the lack of progress here.,Aggressive/Frustrated,0
+Why did you ignore my clear instructions on that feature?,Aggressive/Frustrated,0
+This project is a failure due to poor communication from your side.,Aggressive/Frustrated,0
+That suggestion is ridiculous and shows a lack of understanding.,Aggressive/Frustrated,0
+I cannot tolerate this level of instability in the system.,Aggressive/Frustrated,0
+"The build failed again! Get it together, people.",Aggressive/Frustrated,0
+This task is supposed to be simple. Why is it taking so long?,Aggressive/Frustrated,0
+"If anyone has a moment, I'd appreciate some feedback on this task.",Passive/Ambiguous,1
+"That idea sounds nice, but I'm just going to go with the default setting.",Passive/Ambiguous,1
+"We can try that approach, I suppose, if there isn't any other option available.",Passive/Ambiguous,1
+I'll just assume this is okay until I hear otherwise from the group.,Passive/Ambiguous,1
+"Sorry to bother you, but could you maybe check on that ticket?",Passive/Ambiguous,1
+"I'm not confident in my idea, so just ignore it if it's bad.",Passive/Ambiguous,1
+"Perhaps we could try to meet, but only if it works for absolutely everyone.",Passive/Ambiguous,1
+"I haven't finished the report, so I'll just send you what I have for now.",Passive/Ambiguous,1
+"I don't want to step on anyone's toes, so I'll wait for consensus.",Passive/Ambiguous,1
+"I could potentially start this tomorrow, depending on how things go.",Passive/Ambiguous,1
+I guess I'll just keep working on it until someone tells me to stop.,Passive/Ambiguous,1
+"This proposal might be a little rough, but I wanted to show something.",Passive/Ambiguous,1
+"I'm feeling a little overwhelmed, so maybe this task could wait?",Passive/Ambiguous,1
+Thank you for your work. What immediate steps can we take to stabilize the deployment?,Professional/Constructive,2
+The current timeline seems ambitious. What specific resources are required to meet it?,Professional/Constructive,2
+"Regarding the code submitted, I have three points of feedback outlined below for you.",Professional/Constructive,2
+I recommend we document the decision process thoroughly to avoid future ambiguity.,Professional/Constructive,2
+I will schedule a retrospective on the recent deployment failure to analyze what occurred.,Professional/Constructive,2
+"The proposed solution addresses the requirements, but I have a concern about scalability.",Professional/Constructive,2
+Kindly provide the rationale for selecting the alternative technology stack.,Professional/Constructive,2
+[... 270 more unique professional/constructive sentences ... (omitted for brevity)],Professional/Constructive,2
+I suggest we review the current implementation before starting the next stage.,Professional/Constructive,2
+My understanding is that the new feature requires input from the testing team first.,Professional/Constructive,2
+"I propose a short, focused meeting at 2:00 PM to discuss the conflicting requirements.",Professional/Constructive,2
+"I need a detailed report on the Q3 figures, ideally by the start of next week.",Professional/Constructive,2
+"To ensure long-term data integrity, let's implement a pre-commit hook on all development branches.",Professional/Constructive,2
+We need to discuss the feasibility of integrating the new third-party API.,Professional/Constructive,2
+We should establish a clear communication protocol for urgent production issues.,Professional/Constructive,2
+"To streamline the process, please utilize the new template for all future submissions.",Professional/Constructive,2
+I guess maybe we could perhaps look at the dependencies later if it's fine.,Passive/Ambiguous,1
+"I only have a tiny concern, but it’s probably nothing important anyway.",Passive/Ambiguous,1
+"Maybe this isn't the right solution, but I don't really know for sure.",Passive/Ambiguous,1
+"This is just my two cents, you don't have to follow it at all.",Passive/Ambiguous,1
+"I'm only slightly worried about the new feature, but it's probably fine.",Passive/Ambiguous,1
+"It's not a big deal, but the client mentioned something briefly earlier.",Passive/Ambiguous,1
+"I’m really sorry, but I won’t have the documentation ready on time.",Passive/Ambiguous,1
+"Apologies for the delay, I wasn't really sure who should be responsible.",Passive/Ambiguous,1
+Just wanted to pop in and see if you had any thoughts on my email.,Passive/Ambiguous,1
+"I'm just thinking out loud, but is this really the best option?",Passive/Ambiguous,1
+"If you have time, you could possibly review my pull request eventually.",Passive/Ambiguous,1
+"Should we go ahead with this plan, or does someone have a better idea?",Passive/Ambiguous,1
+"I might be mistaken, but the performance seems to be misbehaving a bit.",Passive/Ambiguous,1
+"What's the latest? Anything at all? I'm just checking in, no rush.",Passive/Ambiguous,1
+"If anyone has a moment, I'd appreciate some feedback on this task.",Passive/Ambiguous,1
+"That idea sounds nice, but I'm just going to go with the default setting.",Passive/Ambiguous,1
+"We can try that approach, I suppose, if there isn't any other option available.",Passive/Ambiguous,1
+I'll just assume this is okay until I hear otherwise from the group.,Passive/Ambiguous,1
+"Sorry to bother you, but could you maybe check on that ticket?",Passive/Ambiguous,1
+"I'm not confident in my idea, so just ignore it if it's bad.",Passive/Ambiguous,1
+"Perhaps we could try to meet, but only if it works for absolutely everyone.",Passive/Ambiguous,1
+"I haven't finished the report, so I'll just send you what I have for now.",Passive/Ambiguous,1
+"I don't want to step on anyone's toes, so I'll wait for consensus.",Passive/Ambiguous,1
+"I could potentially start this tomorrow, depending on how things go.",Passive/Ambiguous,1
+I guess I'll just keep working on it until someone tells me to stop.,Passive/Ambiguous,1
+"This proposal might be a little rough, but I wanted to show something.",Passive/Ambiguous,1
+"I'm feeling a little overwhelmed, so maybe this task could wait?",Passive/Ambiguous,1
+Could you provide a clear update on ticket #45 by the end of day Friday?,Professional/Constructive,2
+I've attached the document outlining the proposed changes for your detailed feedback.,Professional/Constructive,2
+We identified a recurring issue in the system. Please prioritize investigation into the root cause.,Professional/Constructive,2
+Please clarify the expected output and the exact dependencies for this specific task.,Professional/Constructive,2
+The feature is ready for QA. Please proceed with the standard testing procedure at your convenience.,Professional/Constructive,2
+Please submit your finalized designs by the end of the business day Tuesday.,Professional/Constructive,2
+I require a comprehensive breakdown of the budget allocation for the next quarter.,Professional/Constructive,2
+Let's dedicate the next hour to optimizing the database query performance.,Professional/Constructive,2
+[... 270 more unique professional/constructive sentences ... (omitted for brevity)],Professional/Constructive,2
+Let's align on the required output and dependencies for the next task.,Professional/Constructive,2
+Thank you for your work. What immediate steps can we take to stabilize the deployment?,Professional/Constructive,2
+The current timeline seems ambitious. What specific resources are required to meet it?,Professional/Constructive,2
+"Regarding the code submitted, I have three points of feedback outlined below for you.",Professional/Constructive,2
+I recommend we document the decision process thoroughly to avoid future ambiguity.,Professional/Constructive,2
+I will schedule a retrospective on the recent deployment failure to analyze what occurred.,Professional/Constructive,2
+"The proposed solution addresses the requirements, but I have a concern about scalability.",Professional/Constructive,2
+Kindly provide the rationale for selecting the alternative technology stack.,Professional/Constructive,2
+[... 270 more unique professional/constructive sentences ... (omitted for brevity)],Professional/Constructive,2
+I suggest we review the current implementation before starting the next stage.,Professional/Constructive,2
+My understanding is that the new feature requires input from the testing team first.,Professional/Constructive,2
+"I propose a short, focused meeting at 2:00 PM to discuss the conflicting requirements.",Professional/Constructive,2
+"I need a detailed report on the Q3 figures, ideally by the start of next week.",Professional/Constructive,2
+"To ensure long-term data integrity, let's implement a pre-commit hook on all development branches.",Professional/Constructive,2
+We need to discuss the feasibility of integrating the new third-party API.,Professional/Constructive,2
+We should establish a clear communication protocol for urgent production issues.,Professional/Constructive,2
+"To streamline the process, please utilize the new template for all future submissions.",Professional/Constructive,2

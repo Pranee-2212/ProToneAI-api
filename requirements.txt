@@ -1,0 +1,9 @@
+flask
+scikit-learn
+numpy
+torch
+unsloth
+transformers
+accelerate
+bitsandbytes
+xformers # For optimized performance
