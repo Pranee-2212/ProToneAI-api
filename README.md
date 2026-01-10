@@ -2,9 +2,10 @@
 
 ## Project Overview
 
-**ToneMentor** is an AI-powered API designed to help users, especially non-native English speakers, communicate more professionally in corporate environments. The system analyzes the tone of a given message, compares it to a professional standard, and determines if rewriting is necessary. If so, it can rephrase the message in a more professional tone.
+**ProTone** is an AI-powered API designed to help users, especially non-native English speakers, communicate more professionally in corporate environments. The system analyzes the tone of a given message, compares it to a professional standard, and determines if rewriting is necessary. If so, it can rephrase the message in a more professional tone.
 
 ---
+**NOTE**: I am learning pleanty of things through this project and its is a really good experience and feel free to ignore some rookie mistakes 😅😅, i still learnig and stuck on some issues and feel free the edit the code i am open to suggestions on this project 
 
 ## Phase 1: Tone Detection API
 
@@ -94,3 +95,4 @@ This project is for educational and research purposes.
 
 - [x] Phase 1: Tone detection API
 - [ ] Phase 2: Professional rewriting (in progress)
+
